@@ -17,6 +17,7 @@ brew 'youtube-dl'
 
 cask '1password'
 cask 'alfred'
+cask 'amethyst'
 cask 'chromium'
 cask 'docker'
 cask 'dropbox'
@@ -36,4 +37,3 @@ cask 'visual-studio-code'
 cask 'vlc'
 
 mas 'DoubleShot', id: 1076145960
-mas 'Magnet', id: 441258766
