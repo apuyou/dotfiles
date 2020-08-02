@@ -32,7 +32,6 @@ cask 'spotify'
 cask 'table-tool'
 cask 'transmission'
 cask 'virtualbox'
-cask 'viscosity'
 cask 'visual-studio-code'
 cask 'vlc'
 
