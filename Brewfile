@@ -35,4 +35,7 @@ cask 'virtualbox'
 cask 'visual-studio-code'
 cask 'vlc'
 
-mas 'DoubleShot', id: 1076145960
+mas 'Harvest', id: 506189836
+mas 'Owly', id: 882812218
+mas 'The Unarchiver', id: 425424353
+mas 'WireGuard', id: 1451685025
